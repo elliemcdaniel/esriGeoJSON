@@ -1,3 +1,3 @@
-# helloesri
+# esri GeoJSON
 
-This is a repository for helloesri.js
+This is a repository for esri GeoJSON
